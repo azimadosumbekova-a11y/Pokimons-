@@ -8,13 +8,18 @@ body {
   text-align: center;
 
 }
+.pocemon{
+  text-align: center;
+  
+
+}
 .pokemon-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 .pocemon-card {
-  background-color: #ebc7c7;
+  background-color: #efe0e0;
   border: 1px  solid #d9b4b4;
   border-radius: 8px;
   margin: 10px;
